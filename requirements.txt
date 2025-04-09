@@ -1,0 +1,27 @@
+# 우분투에 sudo apt-get install poppler-utils
+pymupdf
+PyPDF2
+tiktoken
+requests 
+beautifulsoup4 
+pandas 
+openpyxl 
+webdriver-manager
+selenium
+nest_asyncio
+
+# pip install pip-tools
+# pip-compile requirements.txt -o requirements.lock
+# pip-sync requirements.lock
+# 한글 형태소 분석기 설치
+konlpy
+mecab-python3
+# 주제 모델링 라이브러리 설치
+gensim
+# 주제 모델링 라이브러리 설치
+torch
+transformers
+sentence-transformers
+bertopic
+# 차원 축소 라이브러리 설치
+umap-learn
