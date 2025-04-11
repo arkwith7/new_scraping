@@ -18,6 +18,7 @@ konlpy
 mecab-python3
 # 주제 모델링 라이브러리 설치
 gensim
+pyLDAvis
 # 주제 모델링 라이브러리 설치
 torch
 transformers
@@ -25,3 +26,9 @@ sentence-transformers
 bertopic
 # 차원 축소 라이브러리 설치
 umap-learn
+
+numpy 
+matplotlib 
+seaborn 
+plotly 
+wordcloud
