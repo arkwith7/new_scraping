@@ -32,3 +32,5 @@ matplotlib
 seaborn 
 plotly 
 wordcloud
+
+nbformat>=5.7.0
