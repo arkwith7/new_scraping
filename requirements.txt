@@ -16,6 +16,7 @@ nest_asyncio
 # 한글 형태소 분석기 설치
 konlpy
 mecab-python3
+kiwipiepy
 # 주제 모델링 라이브러리 설치
 gensim
 pyLDAvis
