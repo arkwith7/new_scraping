@@ -4,7 +4,7 @@ from typing import Dict, List, Optional, Tuple
 from pathlib import Path
 import nbformat
 from nbformat.v4 import new_notebook, new_markdown_cell, new_code_cell
-from text_preprocessing import TextPreprocessor
+from tests.text_preprocessing import TextPreprocessor
 import pandas as pd
 import numpy as np
 from collections import Counter

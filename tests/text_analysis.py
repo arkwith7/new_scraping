@@ -1,5 +1,5 @@
 import pandas as pd
-from text_preprocessing import TextPreprocessor
+from tests.text_preprocessing import TextPreprocessor
 import logging
 
 # 로깅 설정

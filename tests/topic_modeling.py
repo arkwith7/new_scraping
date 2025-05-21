@@ -3,7 +3,7 @@ import numpy as np
 from gensim import corpora, models
 import pyLDAvis
 import pyLDAvis.gensim_models as gensimvis
-from text_preprocessing import TextPreprocessor
+from tests.text_preprocessing import TextPreprocessor
 
 class TopicModeler:
     def __init__(self, num_topics=3):
